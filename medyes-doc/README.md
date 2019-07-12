@@ -2,7 +2,13 @@
 
 ## Introduction
 
-This project allows to the representants of different organizations to publish medical events, to inform the different users (students and doctors...) that are working in the sector
+This application allows to the organizations representants to publish events, thus the medicine students and doctors will be aware about the events that will be organized.
+
+In this app, there are three different roles (users):
+
+    - Admin: allowed to create organization
+    - Representant: allowed to create events
+    - Normal user: just able to check the different information published
 
 ![image](./images/introduction.gif)
 

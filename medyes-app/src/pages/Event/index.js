@@ -57,7 +57,7 @@ export function Event({ match }) {
 
                     <h1 class="uk-article-title"><a class="uk-link-reset" href="">{events.title}</a></h1><br />
 
-                    <p class="uk-article-meta">Published by <a href="#">{events.representant.fullname}</a>, Contact Event Organizer <a href="#">{events.representant.email}</a></p>
+                    {/* <p class="uk-article-meta">Published by <a href="#">{events.representant.fullname}</a>, Contact Event Organizer <a href="#">{events.representant.email}</a></p> */}
                     <br />
                     <img src={events.image} width="550" height="400" />
                     <br />
