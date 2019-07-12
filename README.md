@@ -7,7 +7,7 @@ This Project explores how to do a React APP using Hooks, combined with Node and 
 
 [Documentation](medyes-doc/README.md)
 
-[Demo App](medyes.surge.sh)
+[Demo App](http://medyes.surge.sh)
 
 [API Documentation](medyes-api/README.md)
 
